@@ -23,5 +23,5 @@ add_executable(WUB_LAB_EXERCISE main.c
         "All Programs/16-2D Array - Input and Display Elements.c"
         "All Programs/17-Sum of Two Matrices.c"
         "All Programs/18-Multiplication Table using For Loop.c"
-        "All Programs/Sum of Even Numbers from 1 to N.c"
-        "All Programs/Print First N Fibonacci Numbers.c")
+        "All Programs/19-Sum of Even Numbers from 1 to N.c"
+        "All Programs/20-Print First N Fibonacci Numbers.c")
